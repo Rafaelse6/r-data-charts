@@ -1,0 +1,27 @@
+```{r}
+#import data
+library(lattice)
+data = read.csv("dados.csv", sep = ";", na.strings = "", stringsAsFactors = T)
+head(data)
+summary(data)
+```
+Exploring numerical data
+```{r}
+#CODIGO
+summary(data$CODIGO)
+boxplot(data$CODIGO)
+hist(data$CODIGO, main = "Código", xlab = "Código")
+```
+```{r}
+#PIB
+summary(data$PIB)
+boxplot(data$PIB)
+hist(data$PIB, main="PIB", xlab="PIB")
+```
+```{r}
+#VALOR EMPENHO
+summary(data$VALOREMPENHO)
+boxplot(data$VALOREMPENHO)
+hist(data$VALOREMPENHO, main = "Valor Empenho", xlab = "Valor Empenho")
+```
+
