@@ -19,4 +19,12 @@
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/37bbe688-142e-46ea-aa1f-93a006c017a9)
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/5e134183-85fc-4bb6-a52f-0983b8294fce)
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/afad84a9-5f1e-4b59-a2f8-bfc3c4498adb)
-
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/d3dbe184-14a8-4ee4-b611-ee9d58ef67e3)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/7b3d5bf0-874c-4173-843e-d43426c179e2)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/9a475da8-a7d9-43a6-ae5f-79064256f041)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/5570dd4b-e758-4f72-8102-df5910cf90db)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/913d8fb2-af04-4631-9cdb-513a04e6501f)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/79001f98-efb1-4c33-b70f-c8615c6fc172)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/c0aa873d-d444-48ce-bce3-8150dad302ee)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/69d18f26-cca6-477a-af42-dd9dc7a01ccc)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/5fe28d5f-1a3c-41bb-be6d-205f7acb49d2)
