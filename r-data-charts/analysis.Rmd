@@ -24,4 +24,38 @@ summary(data$VALOREMPENHO)
 boxplot(data$VALOREMPENHO)
 hist(data$VALOREMPENHO, main = "Valor Empenho", xlab = "Valor Empenho")
 ```
+Exploring categorical data
+```{r}
+head(data)
+```
+```{r}
+#MUNICIPIO
+counts = table(data$MUNICIPIO)
+barplot(counts, main="Municipios", xlab="Municipios")
+```
+```{r}
+#NAS
+data[!complete.cases(data),]
+```
+Valor Empenho
+```{r}
+summary(data$VALOREMPENHO)
+boxplot(data$VALOREMPENHO, main="Valores de Empenho", outline = F)
+hist(data$VALOREMPENHO, main="Valores de Empenho", outline = F)
+HEmpenho = head(data[order(-data$VALOREMPENHO),],10)
+barplot(HEmpenho$VALOREMPENHO, main = "Heighest empenho")
+```
+PIB
+```{r}
+summary(data$PIB)
+boxplot(data$PIB, main="Highest PIB", outline = F)
+```
+```{r}
+# PIB and Valor Empenho
+data$PROPORTION =   data$VALOREMPENHO  / data$PIB 
+Mprop = head(data[order(-data$PROPORTION),],10)
+barplot(Mprop$PROPOTION,las=2,main = "Maiores Gastos em Proporção ao PIB")
+legend("topright",legend=Mprop$MUNICIPIO, lty=1:2, cex=0.8, ncol = 2,lwd=4)
+box()
+```
 
