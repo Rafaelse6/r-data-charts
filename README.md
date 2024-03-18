@@ -15,3 +15,8 @@
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/4905844a-3e5c-4e07-a444-e5653e4c436e)
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/62d6ef7e-81ed-4816-bd22-225eccbeced0)
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/fd5f528a-04fe-42a8-9fed-33ecb3efe472)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/49e03b77-e0b0-4e2b-bb77-074cec205fc9)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/37bbe688-142e-46ea-aa1f-93a006c017a9)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/5e134183-85fc-4bb6-a52f-0983b8294fce)
+![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/afad84a9-5f1e-4b59-a2f8-bfc3c4498adb)
+
